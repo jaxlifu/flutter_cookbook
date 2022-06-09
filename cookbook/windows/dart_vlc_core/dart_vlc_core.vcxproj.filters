@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="F:\WorkSpace\Flutter\flutter_cookbook\windows\flutter\ephemeral\.plugin_symlinks\dart_vlc\core\core.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\WorkSpace\Flutter\flutter_cookbook\windows\flutter\ephemeral\.plugin_symlinks\dart_vlc\core\api\api.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\WorkSpace\Flutter\flutter_cookbook\windows\flutter\ephemeral\.plugin_symlinks\dart_vlc\core\player\player.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\WorkSpace\Flutter\flutter_cookbook\windows\flutter\ephemeral\.plugin_symlinks\dart_vlc\core\player\player_state.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\WorkSpace\Flutter\flutter_cookbook\windows\flutter\ephemeral\.plugin_symlinks\dart_vlc\core\media_source\media.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\WorkSpace\Flutter\flutter_cookbook\windows\flutter\ephemeral\.plugin_symlinks\dart_vlc\core\media_source\playlist.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\WorkSpace\Flutter\flutter_cookbook\windows\flutter\ephemeral\.plugin_symlinks\dart_vlc\core\equalizer\equalizer.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\WorkSpace\Flutter\flutter_cookbook\windows\flutter\ephemeral\.plugin_symlinks\dart_vlc\core\devices\devices.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\WorkSpace\Flutter\flutter_cookbook\windows\flutter\ephemeral\.plugin_symlinks\dart_vlc\core\broadcast\broadcast.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\WorkSpace\Flutter\flutter_cookbook\windows\flutter\ephemeral\.plugin_symlinks\dart_vlc\core\chromecast\chromecast.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\WorkSpace\Flutter\flutter_cookbook\windows\flutter\ephemeral\.plugin_symlinks\dart_vlc\core\record\record.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="F:\WorkSpace\Flutter\flutter_cookbook\windows\flutter\ephemeral\.plugin_symlinks\dart_vlc\core\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{09EBDB88-CD2E-38B0-8307-E8E621AA00F7}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

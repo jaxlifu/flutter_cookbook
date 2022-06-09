@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="F:\WorkSpace\Flutter\flutter_cookbook\windows\flutter\ephemeral\.plugin_symlinks\flutter_native_view\core\utils.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\WorkSpace\Flutter\flutter_cookbook\windows\flutter\ephemeral\.plugin_symlinks\flutter_native_view\core\ffi_api.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\WorkSpace\Flutter\flutter_cookbook\windows\flutter\ephemeral\.plugin_symlinks\flutter_native_view\core\native_view_core.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\WorkSpace\Flutter\flutter_cookbook\windows\flutter\ephemeral\.plugin_symlinks\flutter_native_view\core\native_view_container.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\WorkSpace\Flutter\flutter_cookbook\windows\flutter\ephemeral\.plugin_symlinks\flutter_native_view\core\native_view_subclass_proc.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\WorkSpace\Flutter\flutter_cookbook\windows\flutter\ephemeral\.plugin_symlinks\flutter_native_view\windows\flutter_native_view_plugin.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="F:\WorkSpace\Flutter\flutter_cookbook\windows\flutter\ephemeral\.plugin_symlinks\flutter_native_view\windows\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{09EBDB88-CD2E-38B0-8307-E8E621AA00F7}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

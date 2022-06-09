@@ -1,0 +1,9 @@
+POST https://jsonplaceholder.typicode.com/albums
+Content-Type: application/json; charset=UTF-8
+
+{"title":"Jax create this data"}
+
+###
+GET https://jsonplaceholder.typicode.com/albums/101 HTTP/1.1
+
+

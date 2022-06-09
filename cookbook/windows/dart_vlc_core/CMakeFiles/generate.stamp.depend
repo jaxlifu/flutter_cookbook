@@ -1,0 +1,10 @@
+# CMake generation dependency list for this directory.
+E:/scoop/apps/cmake/3.23.1/share/cmake-3.23/Modules/CMakeCInformation.cmake
+E:/scoop/apps/cmake/3.23.1/share/cmake-3.23/Modules/CMakeCommonLanguageInclude.cmake
+E:/scoop/apps/cmake/3.23.1/share/cmake-3.23/Modules/CMakeLanguageInformation.cmake
+E:/scoop/apps/cmake/3.23.1/share/cmake-3.23/Modules/Compiler/CMakeCommonCompilerMacros.cmake
+E:/scoop/apps/cmake/3.23.1/share/cmake-3.23/Modules/Compiler/MSVC-C.cmake
+E:/scoop/apps/cmake/3.23.1/share/cmake-3.23/Modules/Platform/Windows-MSVC-C.cmake
+E:/scoop/apps/cmake/3.23.1/share/cmake-3.23/Modules/Platform/Windows-MSVC.cmake
+F:/WorkSpace/Flutter/flutter_cookbook/windows/CMakeFiles/3.23.1/CMakeCCompiler.cmake
+F:/WorkSpace/Flutter/flutter_cookbook/windows/flutter/ephemeral/.plugin_symlinks/dart_vlc/core/CMakeLists.txt
