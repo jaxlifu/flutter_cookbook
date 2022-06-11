@@ -82,7 +82,9 @@ class LocalStorageTodosApi extends TodoApi {
   @override
   Future<void> saveTodo(Todo todo) {
     final todos = this.todos;
-    final todoIndex = todos.indexWhere((todo) => todo.id == todo.id);
+
+    /// FIX: fix bug for duplication name ,due to todos always one items
+    final todoIndex = todos.indexWhere((t) => t.id == todo.id);
     if (todoIndex >= 0) {
       todos[todoIndex] = todo;
     } else {

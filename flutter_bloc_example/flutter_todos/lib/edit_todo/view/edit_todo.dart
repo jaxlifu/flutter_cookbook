@@ -107,7 +107,7 @@ class TitleField extends StatelessWidget {
       maxLength: 50,
       inputFormatters: [
         LengthLimitingTextInputFormatter(50),
-        FilteringTextInputFormatter.allow(RegExp(r'[a-zA-Z0-9\s]')),
+        FilteringTextInputFormatter.allow(RegExp(r'[\u4e00-\u9fa5_a-zA-Z0-9\s]')),
       ],
       onChanged: (value) {
         context.read<EditTodoBloc>().add(EditTodoTitleChanged(value));
